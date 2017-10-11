@@ -1,0 +1,65 @@
+- REST API
+
+- работа с существующими коллекциями
+- скрипты
+- кастомный запрос с клиента
+- его кастомная обработка на сервере
+- кастомная коллекция и использование ее при обработке запросов
+
+- как запустить все кастомные скрипты для начального инита плеера? в скрипте по регистрации?
+- где хранить разделяемый код
+
+-----
+
+Lara Croft: Relic Run
+ - social aspects providing multiple features including partitioned Leaderboards that are optimised to support real-time rankings of large volumes of players.
+ 
+Hungry Shark Evolution through GameSparks, FGOL are able to 
+ - use dynamic forms functionality to manage 
+		their event configuration with ease, 
+		altering rewards 
+		and enemy spawns based on player performance.
+		
+PewDiePie’s Tuber Simulator
+ - GameSparks is utilised to manage the comprehensive economy systems (IGShop)
+ - Social integrations enabling players to show off their awesome rooms to their friends and the world by sharing them online.
+ 
+World war toons
+ - server-side test harness they provide for testing the output of different functions such as opening loot packs, 
+ levelling up characters, and completing daily challenges without having to test from a client
+ 
+Ultimate chicken horse
+online multiplayer, using the Matchmaking functionality to see players join random lobbies with friends and strangers
+
+
+Carmageddon
+ - using custom messaging and notification systems, Stainless are able set up and configure in-game messages and Push Notifications from one backend
+ 
+Tap my catamari
+ -  Leaderboards, 
+ - Virtual Goods, 
+ - in-game Currencies 
+ and social integrations, enabling players to battle against each other and see their scores climb through the charts in real-time.
+ 
+Gladiator Heroes 
+ -  reward systems and challenges
+ 
+iSlash Heroes
+ - ability to rapidly update various aspects of game content 
+ 
+MMX racing club 
+- MatchMaking is made easy through Facebook integration
+- manipulating prices based on player segments
+
+Strikers Edge
+- Real-Time Multiplayer Services, Leaderboards and Challenges functionality
+
+Iron Kill
+- depend on GameSparks to create personalised player Vs player battles, using Turn-Based Matchmaking
+- challengeMessages
+
+FRZ
+Cloud Code
+
+Goal Finger
+- Events
